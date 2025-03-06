@@ -1,0 +1,8 @@
+prefix=/home/matt/myoung-tech-challenge/devel
+
+Name: turtlesim_path_planner
+Description: Description of turtlesim_path_planner
+Version: 0.0.0
+Cflags: -I/home/matt/myoung-tech-challenge/src/turtlesim_path_planner/include
+Libs: -L${prefix}/lib -lturtlesim_path_planner
+Requires: roscpp std_msgs
