@@ -1,14 +1,11 @@
-Coding challenge for Smart Machine, by Matthew Young 
-
-Repo link: [myoung-tech-challenge](https://github.com/thesmartmachine/myoung-tech-challenge)
-
+Completed coding challenge for a recent technical interview
 
 # Installation & Startup
 
 1. Follow the instructions for installing ROS1 Noetic
 1. Clone the workspace
    ```
-   git clone https://github.com/thesmartmachine/myoung-tech-challenge.git
+   git clone git@github.com:mattforestyoung/misc_projects.git
    ```
 1. Source your ROS workspace
    ```
