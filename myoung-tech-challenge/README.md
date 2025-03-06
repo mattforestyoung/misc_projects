@@ -5,8 +5,9 @@ Completed coding challenge for a recent technical interview. The challenge summa
 > Launch a turtlesim simulation using ROS Noetic (and Ubuntu 20.04).
 > Write a node in C++ that can receive input commands from two sources:
 >
-> -​ Waypoints from a topic and generate a path to it.
-> -​ Velocity commands from the keyboard.
+> - Waypoints from a topic and generate a path to it.
+>
+> - Velocity commands from the keyboard.
 >
 > The node should be able to handle both requests and prioritise the commands from the
 > keyboard. This means that if a keyboard message comes in and the other action is being
